@@ -1,4 +1,4 @@
-Internet Period.
+#Internet Period.
 
 Mobil Verinizin periyodik olarak açılıp kapatılmasını sağlayan uygulamadır.
 Belirlemiş olduğunuz süreler doğrultusunda mobil verinin açılıp kapatılmasını sağlar.
